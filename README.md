@@ -1,4 +1,4 @@
-# rag_application# 💬 RAG-based Personal Story Chatbot
+#💬 RAG-based Personal Story Chatbot
 
 A Retrieval-Augmented Generation (RAG) chatbot that interacts with my personal story! It uses OpenAI embeddings and FAISS for intelligent search and GPT for generating responses — all wrapped in a simple Streamlit app.
 
